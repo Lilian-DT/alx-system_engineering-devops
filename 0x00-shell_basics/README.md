@@ -12,3 +12,5 @@ list all files including hidden in long format
 list files with UID in numerals
 ## 6-firstdirectory
 create directory in tmp
+## 7-movethatfile
+move file betty
