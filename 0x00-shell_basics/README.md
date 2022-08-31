@@ -20,3 +20,7 @@ delete file
 Delete directory
 ## 10-back
 return to previous directory
+## 11
+
+## 12-file_type
+display file type
