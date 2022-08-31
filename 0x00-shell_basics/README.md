@@ -20,8 +20,8 @@ delete file
 Delete directory
 ## 10-back
 return to previous directory
-## 11
-
+## 11-lists
+list files in different directories
 ## 12-file_type
 display file type
 ## 13-symbolic_link
