@@ -16,3 +16,5 @@ create directory in tmp
 move file betty
 ## 8-firstdelete
 delete file
+## 9-firstdirdeletion
+Delete directory
