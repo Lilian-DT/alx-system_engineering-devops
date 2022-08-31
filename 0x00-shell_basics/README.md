@@ -6,3 +6,5 @@ list files in current directory
 navigate to current user home directory
 ## 3-listfiles
 list files in long format
+## 4-listmorefiles
+list all files including hidden in long format
