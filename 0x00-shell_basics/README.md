@@ -4,3 +4,5 @@ Prints absolute path of current working directory
 list files in current directory
 ## 2-bring_me_home
 navigate to current user home directory
+## 3-listfiles
+list files in long format
