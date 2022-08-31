@@ -24,3 +24,5 @@ return to previous directory
 
 ## 12-file_type
 display file type
+## 13-symbolic_link
+create symbolic link
