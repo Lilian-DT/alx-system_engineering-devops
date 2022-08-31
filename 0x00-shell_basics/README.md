@@ -18,3 +18,5 @@ move file betty
 delete file
 ## 9-firstdirdeletion
 Delete directory
+## 10-back
+return to previous directory
