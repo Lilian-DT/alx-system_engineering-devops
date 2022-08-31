@@ -14,3 +14,5 @@ list files with UID in numerals
 create directory in tmp
 ## 7-movethatfile
 move file betty
+## 8-firstdelete
+delete file
