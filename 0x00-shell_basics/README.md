@@ -10,3 +10,5 @@ list files in long format
 list all files including hidden in long format
 ## 5-listfilesdigitonly
 list files with UID in numerals
+## 6-firstdirectory
+create directory in tmp
