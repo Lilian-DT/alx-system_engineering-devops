@@ -20,3 +20,9 @@ give all permissions to other users
 John Doe
 ## 10-mirror_permissions
 mirror permissions
+## 11-directories_permissions
+recursive permissios
+## 12-directory_permissions
+create directory and permissions
+## 13-change_group
+change group owner
