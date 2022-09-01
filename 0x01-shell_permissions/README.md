@@ -26,3 +26,5 @@ recursive permissios
 create directory and permissions
 ## 13-change_group
 change group owner
+## 100-change_owner_and_group
+changes the owner to vincent and the group owner to staff
