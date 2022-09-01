@@ -10,3 +10,5 @@ Change file owner
 create empty file
 ## 5-execute
 make file executable
+## 6-multiple_permissions
+multiple permissions
