@@ -14,3 +14,9 @@ make file executable
 multiple permissions
 ## 7-everybody
 give all permissions to all users
+## 8-James_Bond
+give all permissions to other users
+## 9-John_Doe
+John Doe
+## 10-mirror_permissions
+mirror permissions
