@@ -12,3 +12,5 @@ create empty file
 make file executable
 ## 6-multiple_permissions
 multiple permissions
+## 7-everybody
+give all permissions to all users
