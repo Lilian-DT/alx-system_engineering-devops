@@ -4,3 +4,5 @@ switch user
 print current user's username
 ## 2-groups
 print groups of current user
+## 3-new_owner
+Change file owner
