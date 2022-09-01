@@ -8,3 +8,5 @@ print groups of current user
 Change file owner
 ## 4-empty
 create empty file
+## 5-execute
+make file executable
