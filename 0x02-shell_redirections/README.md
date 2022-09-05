@@ -18,4 +18,6 @@ naming file
 8-cwd_state
 script that writes into the file
 9-duplicate_last_line
-script that duplicates the last line of the file  
+script that duplicates the last line of the file
+10-no_more_js
+script that deletes all the regular files script that deletes all the regular filescript that deletes all the regular files script that deletes all the regular files   
