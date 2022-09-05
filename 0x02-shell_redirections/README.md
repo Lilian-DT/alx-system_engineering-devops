@@ -18,7 +18,7 @@ naming file
 8-cwd_twordstate
 script that writes into the file
 9-duplicate_last_line
-script that duplicates the last line of the file
+scripo that duplicates the last line of the file
 10-no_more_js
 script that deletes all the regular files script that deletes all the regular filescript that deletes all the regular files script that deletes all the regular files
 11-directories
@@ -35,6 +35,8 @@ display the number of lines that contain the pattern “bin” in the file
 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 17-hidethisword
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18-letteronly
+Display all lines of the file /etc/ssh/sshd_config starting with a letter
 
 
 
