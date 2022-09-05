@@ -8,4 +8,6 @@ displays /etc/passw
 3-twofiles
 displays contents
 4-lastlines
-display 4 lines  
+display 4 line
+5-firstlines
+Display the first 10 lines of /etc/passw  
