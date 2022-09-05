@@ -15,7 +15,7 @@ Display the first 10 lines of /etc/passw
 Write a script that displays the third line of the file iacta.
 7-file
 naming file
-8-cwd_state
+8-cwd_twordstate
 script that writes into the file
 9-duplicate_last_line
 script that duplicates the last line of the file
@@ -29,5 +29,7 @@ script that displays the 10 newest files in the current directory.
 script that takes a list of words as input and prints only words that appear exactly once.
 14-findthatword
 Display lines containing the pattern “root” from the file /etc/passwd
+15-countthatword
+display the number of lines that contain the pattern “bin” in the file
 
    
