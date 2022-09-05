@@ -4,4 +4,6 @@ Prints hello worl
 file
 prints confused smiley
 2-hellofile
-displays /etc/passwd 
+displays /etc/passw
+3-twofiles
+displays contents  
