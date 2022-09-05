@@ -10,4 +10,6 @@ displays contents
 4-lastlines
 display 4 line
 5-firstlines
-Display the first 10 lines of /etc/passw  
+Display the first 10 lines of /etc/passw
+6-third_line
+Write a script that displays the third line of the file iacta.  
