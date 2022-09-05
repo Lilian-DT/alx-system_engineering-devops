@@ -1,5 +1,7 @@
 0-hello_world
 Prints hello worl
 1-confused_smiley
+file
 prints confused smiley
-d
+2-hellofile
+displays /etc/passwd 
