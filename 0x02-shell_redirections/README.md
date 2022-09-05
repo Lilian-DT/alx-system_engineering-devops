@@ -16,4 +16,6 @@ Write a script that displays the third line of the file iacta.
 7-file
 naming file
 8-cwd_state
-script that writes into the file  
+script that writes into the file
+9-duplicate_last_line
+script that duplicates the last line of the file  
