@@ -20,3 +20,5 @@ Every addition to true knowledge is an addition to human power
 Divide and rule
 10-love_exponent_breath
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+11-binary_to_decimal
+There are 10 types of people in the world -- Those who understand binary, and those who don't
