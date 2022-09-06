@@ -1,18 +1,4 @@
-0-hello_world
-Prints hello worl
-1-confused_smiley
-file
-prints confused smiley
-2-hellofile
-displays /etc/passw
-3-twofiles
-displays contents
-4-lastlines
-display 4 line
-5-firstlines
-Display the first 10 lines of /etc/passw
-6-third_line
-Write a script that displays the third line of the file iacta.
+ks
 7-file
 naming file
 8-cwd_twordstate
@@ -45,9 +31,10 @@ Create a script that removes all letters c and C from input.
 Write a script that reverse its input.
 22-users_and_homes
 Write a script that displays all users and their home directories, sorted by users.
+100-empty_casks
+Write a command that finds all empty files and directories in the current directory and all sub-directories.
 
 
 
 
-
-   
+  I 
