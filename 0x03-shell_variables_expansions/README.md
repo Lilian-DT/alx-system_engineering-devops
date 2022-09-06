@@ -14,3 +14,5 @@ Local variables
 Local variable
 7-create_global_variable
 Global variable
+8-true_knowledge
+Every addition to true knowledge is an addition to human power
