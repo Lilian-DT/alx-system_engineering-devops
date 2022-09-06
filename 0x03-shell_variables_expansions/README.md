@@ -16,3 +16,5 @@ Local variable
 Global variable
 8-true_knowledge
 Every addition to true knowledge is an addition to human power
+9-divide_and_rule
+Divide and rule
