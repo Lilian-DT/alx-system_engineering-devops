@@ -18,3 +18,5 @@ Global variable
 Every addition to true knowledge is an addition to human power
 9-divide_and_rule
 Divide and rule
+10-love_exponent_breath
+Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
