@@ -12,3 +12,5 @@ Global variables
 Local variables
 6-create_local_variable
 Local variable
+7-create_global_variable
+Global variable
